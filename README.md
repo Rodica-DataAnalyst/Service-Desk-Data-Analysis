@@ -37,6 +37,8 @@ The project follows a complete data analysis workflow using Excel, Python (Panda
 
 **Data Export:** Exported the cleaned and validated dataset to CSV for further analysis in SQL Server and Power BI.
 
+
+
 ### 3. SQL Server – Data Analysis
 - Built and validated the analytical data model
 - Used joins, aggregations, CTEs and window functions
