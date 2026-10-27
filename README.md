@@ -20,13 +20,13 @@ The project follows a complete data analysis workflow using Excel, Python (Panda
 - Validated categories and subcategories
 - Checked data types and potential data quality issues
   
--Pivot Table & Metrics :
+- Pivot Table & Metrics :
 Created dynamic pivot summaries to analyze ticket distribution across different statuses (Closed , In Progress , Resolved , Pending) and tracked the overall breakdown of 50000+ total records. 
 
--Monthly Volume Trends :
+- Monthly Volume Trends :
 Built a monthly tracking matrix with calculated percentage contribution to identify seasonal peaks and fluctuation in ticket volumes from 2024 to 2026.
 
--Visual Annotation:
+- Visual Annotation:
 Developed line and combo charts to visualize internal patterns ,helping establish a baseline for deeper data modeling in SQL Server and Power BI .
 
   <img width="1827" height="654" alt="AdobeExpressPhotos_8cdee7fecda34081aaf7bf4d9969fc58_CopyEdited" src="https://github.com/user-attachments/assets/5f1c9d92-a1a7-4158-9dcb-b015500775d6" />
