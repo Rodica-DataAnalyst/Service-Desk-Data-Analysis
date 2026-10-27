@@ -14,20 +14,15 @@ The project follows a complete data analysis workflow using Excel, Python (Panda
 
 ## Project Workflow
 
-### 1. Excel – Data Quality
-- Identified missing values and duplicate records
-- Checked data consistency and temporal rules
-- Validated categories and subcategories
-- Checked data types and potential data quality issues
-  
-- Pivot Table & Metrics :
-Created dynamic pivot summaries to analyze ticket distribution across different statuses (Closed , In Progress , Resolved , Pending) and tracked the overall breakdown of 50000+ total records. 
+### 1. Excel – Data Quality & Exploratory Analysis 
 
-- Monthly Volume Trends :
-Built a monthly tracking matrix with calculated percentage contribution to identify seasonal peaks and fluctuation in ticket volumes from 2024 to 2026.
+- **Data Quality:** Identified missing values, duplicate records, data type inconsistencies, and validated temporal rules, categories, and subcategories.
 
-- Visual Annotation:
-Developed line and combo charts to visualize internal patterns ,helping establish a baseline for deeper data modeling in SQL Server and Power BI .
+- **Pivot Tables & KPIs:** Analyzed the distribution of 50,005 service desk tickets across different statuses.
+
+- **Monthly Trends:** Created monthly summaries and calculated percentage contributions to identify changes in ticket volumes from 2024 to 2026.
+
+- **Data Visualization:** Developed line and combo charts to visualize ticket trends and support further analysis in SQL Server and Power BI.
 
   <img width="1827" height="654" alt="AdobeExpressPhotos_8cdee7fecda34081aaf7bf4d9969fc58_CopyEdited" src="https://github.com/user-attachments/assets/5f1c9d92-a1a7-4158-9dcb-b015500775d6" />
 
