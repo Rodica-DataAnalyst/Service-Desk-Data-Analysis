@@ -30,8 +30,11 @@ The project follows a complete data analysis workflow using Excel, Python (Panda
 ### 2. Python – Data Cleaning & Validation
 
 **Data Cleaning:** Removed duplicate records, standardized text fields, and handled missing or inconsistent values using Pandas.
+
 **Data Validation:** Converted datetime columns and verified temporal consistency between ticket creation, first response, resolution, and closure.
+
 **Feature Engineering:** Calculated ticket resolution time and first response time in hours to support performance analysis.
+
 **Data Export:** Exported the cleaned and validated dataset to CSV for further analysis in SQL Server and Power BI.
 
 ### 3. SQL Server – Data Analysis
