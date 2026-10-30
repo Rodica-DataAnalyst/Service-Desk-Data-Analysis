@@ -48,6 +48,8 @@ The project follows a complete data analysis workflow using Excel, Python (Panda
 - Analyzed pending and reopened tickets
 - Analyzed ticket resolution times and identified categories with high average resolution times.
 
+  [View SQL Queries](SQL/Data_Preparation_Analysis.sql)
+
 ### 4. Power BI – Dashboard
 Created an interactive Service Desk dashboard covering:
 - Total Tickets
