@@ -62,7 +62,7 @@ Created an interactive Service Desk dashboard covering:
 - Year-over-Year analysis
 - Drill-down and drill-through analysis
 
-[View Power BI Dashboard](PowerBI/ServiceDesk_Analytics.pbix)
+[Download Power BI Report (.pbix)](PowerBI/ServiceDesk_Analytics.pbix)
 
 ## Repository Structure
 - `Excel/` – Data exploration and quality checks
