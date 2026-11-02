@@ -64,7 +64,7 @@ Created an interactive Service Desk dashboard covering:
 
 [Download Power BI Report (.pbix)](PowerBI/ServiceDesk_Analytics.pbix)
 
-[View Power BI Dashboard (PDF)](PowerBI/ServiceDesk_Analytics_Dashboard.pdf)
+[View Dashboard PDF](PowerBI/ServiceDesk_Analytics_Dashboard%20.pdf)
 
 ## Repository Structure
 - `Excel/` – Data exploration and quality checks
