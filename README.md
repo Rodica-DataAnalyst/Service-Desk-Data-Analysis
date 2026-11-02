@@ -50,17 +50,20 @@ The project follows a complete data analysis workflow using Excel, Python (Panda
 
   [View SQL Queries](SQL/Data_Preparation_Analysis.sql)
 
-### 4. Power BI – Dashboard
-Created an interactive Service Desk dashboard covering:
+### 4. Power BI – Interactive Report
+Created an interactive Service Desk report covering:
 - Total Tickets
 - Closed and Resolved Tickets
 - Pending and Reopened Tickets
 - Average First Response Time
 - Average Resolution Time
-- SLA Performance
 - Ticket analysis by Category and Subcategory
 - Year-over-Year analysis
 - Drill-down and drill-through analysis
+- Interactive bookmarks for switching between Category and Priority views
+- Buttons for report navigation
+- Slicers for dynamic filtering
+- DAX measures for KPI calculation 
 
 [Download Power BI Report (.pbix)](PowerBI/ServiceDesk_Analytics.pbix)
 
